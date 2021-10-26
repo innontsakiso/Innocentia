@@ -1,0 +1,39 @@
+
+
+.one { border:  purple 5px;
+       padding: 50px;
+       background-color: buttonhighlight;
+       color: black; 
+       font-size: 100px;
+       border-radius: 1px 1px 1px 1px;
+       text-shadow: 10x 10px;
+       
+           
+}
+.two { border: 5px solid black;
+      padding: 5px;
+      border-radius: 5px 5px 5px 5px;
+}
+
+table, th, td { border: 2px solid black;
+                border-collapse: collapse;
+                padding: 10px;
+                
+}
+tr:hover{background-color: grey}
+th {background-color: black;
+color: white;}
+
+
+
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 Oct 2021, 4:07:59 PM
+    Author     : INNOCENTIA
+*/
+
